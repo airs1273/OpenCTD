@@ -13,6 +13,9 @@
 //Software libary for the pressure sensor
 #include <MS5837.h>
 
+//(ALTERED)Software library for temperature sensor
+#include "TSYS01.h"
+
 //EC Circuit uses software serial
 #include <SoftwareSerial.h>
 
